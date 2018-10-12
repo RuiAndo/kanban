@@ -37,7 +37,10 @@ gem 'jbuilder', '~> 2.5'
 gem 'bootsnap', '>= 1.1.0', require: false
 
 gem 'devise'
-
+gem 'bootstrap', '~> 4.1.3'
+gem 'jquery-rails'
+gem 'rails-i18n'
+gem 'font-awesome-sass'
 
 
 group :development, :test do
